@@ -536,7 +536,7 @@
     <string name="ringer_mode_vibrate">Вібро</string>
     <string name="ringer_mode_sound">Звук</string>
     <string name="ringer_mode_sound_vibrate">Звук та вібро</string>
-    <string name="fix_location_title">Виправлена ​​проблема місця розташування</string>
+    <string name="fix_location_title">Виправленя​проблеми місце розташування</string>
     <string name="fix_location_summary">Включити в разі, якщо ви помітили, неправильний розрахунок відстані (потрібне перезавантаження)</string>
 
 </resources>
