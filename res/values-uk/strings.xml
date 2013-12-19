@@ -412,7 +412,7 @@
     <string name="clock_dow_uppercase">ВЕЛИКИМИ</string>
     <string name="pref_statusbar_lock_policy_title">Правила блокування статусбара</string>
     <string name="sbl_policy_default">Типово</string>
-    <string name="sbl_policy_unlocked">Розблоковано якщо блокування клавіатури ненадіне</string>
+    <string name="sbl_policy_unlocked">Розблоковано, якщо блокування клавіатури ненадіне</string>
     <string name="sbl_policy_locked">Заблокований</string>
     <string name="pref_cat_data_traffic_title">Монітор трафіку</string>
     <string name="pref_data_traffic_enable_title">Включити моніторинг</string>
@@ -425,8 +425,8 @@
     <string name="dt_size_normal">Звичайний</string>
     <string name="dt_size_smaller">Маленький</string>
     <string name="dt_size_smallest">Дуже маленький</string>
-    <string name="byte_abbr">B</string>
-    <string name="kilobyte_abbr">КБ</string>
+    <string name="byte_abbr">б</string>
+    <string name="kilobyte_abbr">Кб</string>
     <string name="megabyte_abbr">Мегабайт</string>
     <string name="second_abbr">з</string>
     <string name="pref_lockscreen_widget_limit_disable_title">Відключити обмеження віджетів</string>
@@ -521,5 +521,22 @@
     <string name="hwkey_ls_torch_home_longpress">Тривале натиснення "Додому"</string>
     <string name="hwkey_ls_torch_voldown_longpress">Тривале натиснення "Зменшити гучність"</string>
     <string name="battery_style_kitkat_percent">Батарея KitKat з відсотками</string>
-    <string name="pref_cat_transparency_manager_summary">Управління прозорість для статус бара та панелі навігації</string>
+    <string name="pref_cat_transparency_manager_summary">Управління прозорістю для статус бара та панелі навігації</string>
+    <string name="pref_qs_management_enable_summary">Головний вимикач для управління Швидкими налаштуваннями (потрібне перезавантаження)</string>
+    <string name="app_picker_applications">Застосунки</string>
+    <string name="app_picker_shortcuts">Ярлики</string>
+    <string name="app_picker_shortcut_null_intent">Неможливо створити ярлик, тому що не увімкнена функція</string>
+    <string name="app_picker_shortcut_cancelled">Створення ярлика скасовано додатком</string>
+    <string name="pref_navbar_swap_keys_title">Поміняти місцями кнопки назад та недавно запущених</string>
+    <string name="pref_lockscreen_ring_torch_title">Увімкнути ліхтарик</string>
+    <string name="pref_lockscreen_ring_torch_summary">Увімкнення ліхтарика при тривалому натисненні кільця розблокування</string>
+    <string name="pref_volume_panel_timeout_title">Тривалість показу панелі гучності</string>
+    <string name="pref_qs_ringer_mode_title">Режим звуку в тайлах</string>
+    <string name="ringer_mode_silent">Тихий</string>
+    <string name="ringer_mode_vibrate">Вібро</string>
+    <string name="ringer_mode_sound">Звук</string>
+    <string name="ringer_mode_sound_vibrate">Звук та вібро</string>
+    <string name="fix_location_title">Виправлена ​​проблема місця розташування</string>
+    <string name="fix_location_summary">Включити в разі, якщо ви помітили, неправильний розрахунок відстані (потрібне перезавантаження)</string>
+
 </resources>
