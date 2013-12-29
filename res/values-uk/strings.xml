@@ -538,5 +538,26 @@
     <string name="ringer_mode_sound_vibrate">Звук та вібро</string>
     <string name="fix_location_title">Виправленя​проблеми місце розташування</string>
     <string name="fix_location_summary">Включити в разі, якщо ви помітили, неправильний розрахунок відстані (потрібне перезавантаження)</string>
+    <string name="pref_cat_launcher_tweaks_title">Налаштування головного екрана</string>
+    <string name="pref_cat_launcher_tweaks_summary">Застосовує тільки Google launcher</string>
+    <string name="pref_cat_launcher_desktop_grid_title">Сітка робочого стола</string>
+    <string name="pref_launcher_desktop_grid_info_title">"Через невірні значення може розірвати компонування віджетів. Використовувати мудро. Зміни вимагають перезавантаження лаунчера."</string>
+    <string name="pref_launcher_desktop_grid_rows_title">Кількість рядків</string>
+    <string name="pref_launcher_desktop_grid_cols_title">Кількість стовпців</string>
+    <string name="desktop_grid_default">За промовчанням</string>
+    <string name="screen_off_effect_title">Ефект вимкнення екрану</string>
+    <string name="screen_off_effect_default">Стандартний</string>
+    <string name="screen_off_effect_crt">Кіноскопу</string>
+    <string name="screen_off_effect_fade">Затухання</string>
+    <string name="battery_percent_text_title">Розмір тексту відсотка батареї</string>
+    <string name="battery_percent_text_size_title">Розмір тексту</string>
+    <string name="battery_percent_text_size_normal">Нормальний</string>
+    <string name="battery_percent_text_size_smaller">Менший</string>
+    <string name="battery_percent_text_size_even_smaller">Ще менші</string>
+    <string name="battery_percent_text_size_smallest">Найменший</string>
+    <string name="battery_percent_text_style_title">Стиль тексту відсотка батареї</string>
+    <string name="battery_percent_text_style_default">Стандартний</string>
+    <string name="battery_percent_text_style_numbers_only">Тільки цифра (без %)</string>
+    <string name="pref_cat_battery_settings_title">Налаштування батареї</string>
 
 </resources>
